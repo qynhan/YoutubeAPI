@@ -3,7 +3,7 @@ When watching videos from a playlist, sometimes it would be beneficial to know h
 
 Additionally, I would like to find out the most popular videos in a given playlist.
 
-I created a tool that calculates the total video length in a given playlist and also the most popular <\br >
+I created a tool that calculates the total video length in a given playlist and also the most popular
 
 # Run instructions
 By running `python3 main.py`, the program will output the sum video length of the given playlist.
